@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="viewport" content="This is my first git saved file">
+    <meta name="viewport" content="This is my second commit">
     <title>Sample HTML Project</title>
 </head>
 <body>
